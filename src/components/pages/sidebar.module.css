@@ -1,0 +1,16 @@
+.MuiListItem-root {
+    @apply p-0 mt-4;
+  }
+  .css-1gh9ooz-MuiButtonBase-root-MuiListItemButton-root.Mui-selected {
+    @apply bg-transparent;
+  }
+  .sidebar__logo {
+    @apply py-5 px-3 flex items-center justify-center;
+  }
+  .sidebar__wrapper {
+    @apply flex items-baseline justify-between h-full flex-col m-auto;
+  }
+  .sidebar__text {
+    @apply text-grey-500 text-base font-Figtree;
+  }
+  
